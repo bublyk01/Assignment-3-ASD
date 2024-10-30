@@ -99,3 +99,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         navigationController?.pushViewController(detailVC, animated: true)
     }
 }
+
+//I only made this task up to the point (including it) which
+//earns 8 points in total - where a second screen has to be done
+//showing details about a particular student
